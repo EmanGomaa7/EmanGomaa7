@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Eman Gomaa</h1>
+<h3 align="center">Computer Science Student | C++ Learner</h3>
 
-<!--
-**EmanGomaa7/EmanGomaa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=C%2B%2B+Learner;Problem+Solving+Student;Future+Software+Engineer&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+* 🎓 Computer Science Student
+* 💻 Learning **C++ Programming**
+* 🧠 Practicing **Problem Solving & Algorithms**
+* 🚀 Using **CLion** for C++ development
+
+---
+
+### 🛠️ Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,clion,git,github,vscode" />
+</p>
+
+---
+
+### 💻 Practice Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Codeforces-Problem%20Solver-blue?style=for-the-badge&logo=codeforces">
+<img src="https://img.shields.io/badge/VJudge-Competitive%20Programming-orange?style=for-the-badge">
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=EmanGomaa7&show_icons=true&theme=tokyonight">
+</p>
