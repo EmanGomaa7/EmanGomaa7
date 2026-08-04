@@ -1,47 +1,33 @@
 <h1 align="center">Hi, I'm Eman Gomaa 👋</h1>
-<h3 align="center">💻 Computer Science Student &nbsp;|&nbsp; Problem Solver &nbsp;|&nbsp; C++ Learner</h3>
+<h3 align="center">Computer Science Student | Problem Solver | C++ Learner</h3>
 
-<p align="center">
-  <em>"Turning logic into clean code, one problem at a time."</em>
+---
+
+### Languages & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-### 🛠️ &nbsp; Languages & Tools
+### What I'm Learning
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `C++` &nbsp;&nbsp;&nbsp; `Java` &nbsp;&nbsp;&nbsp; `SQL / MySQL` |
-| **Version Control** | `Git` &nbsp;&nbsp;&nbsp; `GitHub` |
-| **Development Environments** | `CLion` &nbsp;&nbsp;&nbsp; `VS Code` |
-
----
-
-### 📚 &nbsp; What I'm Learning
-
-> رحلتي المستمرة في تطوير مهارات البرمجة وعلوم الحاسب:
-
-* **Programming Fundamentals & OOP** *(Using C++)*
+* **Programming Fundamentals & OOP** (Using C++)
 * **Data Structures and Algorithms (DSA)**
 * **Database Systems & SQL**
-* **Software Engineering & Methodologies** *(Basics)*
+* **Software Engineering & Methodologies** (Basics)
 * **Programming Using Java**
 
 ---
 
-### 🏆 &nbsp; Practice Platforms
+### Practice Platforms
 
-<p align="center">
-  <code><b>Codeforces</b>: Problem Solver</code>
-  &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
-  <code><b>VJudge</b>: Competitive Programming</code>
-</p>
-
----
-
-### 📊 &nbsp; GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmanGomaa7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanGomaa7&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22" width="48%" />
-</p>
+* **Codeforces** — Problem Solver
+* **VJudge** — Competitive Programming
