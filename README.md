@@ -17,6 +17,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" width="40" height="40" alt="CLion" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
 </p>
 
 ---
@@ -35,12 +36,3 @@
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Problem%20Solver-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com)
 [![VJudge](https://img.shields.io/badge/VJudge-Competitive%20Programming-orange?style=for-the-badge)](https://vjudge.net)
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=EmanGomaa7&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanGomaa7&layout=compact&theme=tokyonight" width="48%" />
-</p>
