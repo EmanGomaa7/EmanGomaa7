@@ -1,40 +1,47 @@
-<h1 align="center">Eman Gomaa 👩‍💻</h1>
-<h3 align="center">Computer Science Student | C++ Learner</h3>
+<h align="center">
+  <img src="https://avatars.githubusercontent.com/u/EmanGomaa7?v=4" width="130" align="left" style="border-radius: 50%; margin-right: 20px;" />
+  <h1>Hi there, I'm Eman Gomaa 👋</h1>
+  <h3>💻 Computer Science Student | Problem Solver & C++ Learner</h3>
+</h>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=C%2B%2B+Learner;Problem+Solving+Student;Future+Software+Engineer&center=true&width=500&height=45">
-</p>
-
----
-
-### 👩‍💻 About Me
-
-* 🎓 Computer Science Student
-* 💻 Learning **C++ Programming**
-* 🧠 Practicing **Problem Solving & Algorithms**
-* 🚀 Using **CLion** for C++ development
+<br clear="left"/>
 
 ---
 
 ### 🛠️ Languages & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,clion,git,github,vscode" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" width="40" height="40" alt="CLion" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
 </p>
 
 ---
 
-### 💻 Practice Platforms
+### 📚 What I'm Learning
 
-<p>
-<img src="https://img.shields.io/badge/Codeforces-Problem%20Solver-blue?style=for-the-badge&logo=codeforces">
-<img src="https://img.shields.io/badge/VJudge-Competitive%20Programming-orange?style=for-the-badge">
-</p>
+* 🧠 **Programming Fundamentals & OOP** (Using C++)
+* 📊 **Data Structures and Algorithms (DSA)**
+* 🗄️ **Database Systems & SQL**
+* ⚙️ **Software Engineering & Methodologies** *(Basics)*
+* ☕ **Programming Using Java**
+
+---
+
+### 🏆 Practice Platforms
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-Problem%20Solver-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com)
+[![VJudge](https://img.shields.io/badge/VJudge-Competitive%20Programming-orange?style=for-the-badge)](https://vjudge.net)
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=EmanGomaa7&show_icons=true&theme=tokyonight">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=EmanGomaa7&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanGomaa7&layout=compact&theme=tokyonight" width="48%" />
 </p>
