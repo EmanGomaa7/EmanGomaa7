@@ -1,47 +1,47 @@
-<h align="center">
-  <img src="https://avatars.githubusercontent.com/u/EmanGomaa7?v=4" width="130" align="left" style="border-radius: 50%; margin-right: 20px;" />
-  <h1>Hi there, I'm Eman Gomaa 👋</h1>
-  <h3>💻 Computer Science Student | Problem Solver & C++ Learner</h3>
-</h>
+<h1 align="center">Hi, I'm Eman Gomaa 👋</h1>
+<h3 align="center">💻 Computer Science Student &nbsp;|&nbsp; Problem Solver &nbsp;|&nbsp; C++ Learner</h3>
 
-<br clear="left"/>
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" width="40" height="40" alt="CLion" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+<p align="center">
+  <em>"Turning logic into clean code, one problem at a time."</em>
 </p>
 
 ---
 
-### 📚 What I'm Learning
+### 🛠️ &nbsp; Languages & Tools
 
-* 🧠 **Programming Fundamentals & OOP** (Using C++)
-* 📊 **Data Structures and Algorithms (DSA)**
-* 🗄️ **Database Systems & SQL**
-* ⚙️ **Software Engineering & Methodologies** *(Basics)*
-* ☕ **Programming Using Java**
-
----
-
-### 🏆 Practice Platforms
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-Problem%20Solver-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com)
-[![VJudge](https://img.shields.io/badge/VJudge-Competitive%20Programming-orange?style=for-the-badge)](https://vjudge.net)
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `C++` &nbsp;&nbsp;&nbsp; `Java` &nbsp;&nbsp;&nbsp; `SQL / MySQL` |
+| **Version Control** | `Git` &nbsp;&nbsp;&nbsp; `GitHub` |
+| **Development Environments** | `CLion` &nbsp;&nbsp;&nbsp; `VS Code` |
 
 ---
 
-### 📊 GitHub Stats
+### 📚 &nbsp; What I'm Learning
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=EmanGomaa7&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanGomaa7&layout=compact&theme=tokyonight" width="48%" />
+> رحلتي المستمرة في تطوير مهارات البرمجة وعلوم الحاسب:
+
+* **Programming Fundamentals & OOP** *(Using C++)*
+* **Data Structures and Algorithms (DSA)**
+* **Database Systems & SQL**
+* **Software Engineering & Methodologies** *(Basics)*
+* **Programming Using Java**
+
+---
+
+### 🏆 &nbsp; Practice Platforms
+
+<p align="center">
+  <code><b>Codeforces</b>: Problem Solver</code>
+  &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+  <code><b>VJudge</b>: Competitive Programming</code>
+</p>
+
+---
+
+### 📊 &nbsp; GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmanGomaa7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanGomaa7&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22" width="48%" />
 </p>
